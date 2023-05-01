@@ -102,18 +102,13 @@ a{
     color: #7c7474;
 }
 
-.My-page .Body-page .page-content .contents .my-socials{
-    
-}
+
 .My-page .Body-page .page-content .contents .my-socials i{
     display: inline-block;
     padding: 10px;
     margin: 0 10px 15px 0;
     border-radius: 50%;
-    border: 1px solid aqua;
-    width: 25px;
-    height: 25px;
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
     justify-content: center;
     color: aqua;
@@ -122,6 +117,7 @@ a{
 }
 .My-page .Body-page .page-content .contents .my-socials i:hover{
     background-color: transparent;
+    border: 2px solid aqua;
 }
 
 .My-page .Body-page .page-content .contents p{
